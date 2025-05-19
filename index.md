@@ -14,9 +14,8 @@
    3.[Biseccion](https://github.com/pj88555/Proyecto-final/blob/main/biseccion.py)
 
 *  **Tarea 3 Raices de ecuaciones parte 2**
-   1.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/secante.py)
-   2.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/newton-raphson.py)
-   3.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/biseccion.py)
+   1.[Metodo de la regla falsa](https://github.com/pj88555/Proyecto-final/blob/main/metodo%20de%20la%20regla%20falsa.py)
+   2.[Metodo de birge-vieta](https://github.com/pj88555/Proyecto-final/blob/main/metodo%20de%20birge-vieta.py)
  
 *  **Tarea 4 Sistemas de ecuaciones lineales**
    1.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/secante.py)
