@@ -10,7 +10,7 @@
 
 * Tarea 2 Raices de ecuaciones parte 1
    1.[Secante](https://github.com/pj88555/Proyecto-final/blob/main/secante.py)
-   2.[Newton-rapsoy](https://github.com/pj88555/Proyecto-final/blob/main/newton-raphson.py)
+   2.[Newton-Raphson](https://github.com/pj88555/Proyecto-final/blob/main/newton-raphson.py)
    3.[Biseccion](https://github.com/pj88555/Proyecto-final/blob/main/biseccion.py)
 
 * Tarea 3 Raices de ecuaciones parte 2
