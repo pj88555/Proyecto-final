@@ -1,4 +1,4 @@
-# Proyecto de la materia de de programacion numerica
+# Proyecto final de la materia de de programacion numerica
 
 *  **Tarea 1 Repaso de programcion** 
   1.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio1.py)
