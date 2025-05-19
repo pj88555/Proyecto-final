@@ -1,6 +1,6 @@
 # Proyecto de la materia de de programacion numerica
 
-*** Tarea 1 Repaso de programcion **
+* Tarea 1 Repaso de programcion 
   1.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio1.py)
   2.[Ejercicio 2](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio2.py)
   3.[Ejercicio 3](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio3.py)
