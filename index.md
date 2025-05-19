@@ -7,4 +7,17 @@
   4.[Ejercicio 4](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio4.py)
   5.[Ejercicio 5](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio5.py)
   6.[Ejercicio 6](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio6.py)
+
+* Tema 1
+   1.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/secante.py)
+   2.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/newton-raphson.py)
+   3.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/biseccion.py)
+
+* Tema 1
+ 
+* Tema 1
+
+* Tema 1
+
+* Tema 1
   
