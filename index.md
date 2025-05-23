@@ -24,6 +24,7 @@
    2.[Comprobacion usando np.linagl.solve, np.linagl.inv, cholesky, cramer y descomposion LU](https://github.com/pj88555/Proyecto-final/blob/main/tarea%203.py)
 
    ![](https://www.biografiasyvidas.com/biografia/j/fotos/jacobi.jpg)
+   ![](https://aprendercurso.com/wp-content/uploads/sites/52/2018/03/Cramer.jpg)
 
 *  **Tarea 5 Integracion y diferenciacion numericas**
    1.[Derivadas](https://github.com/pj88555/Proyecto-final/blob/main/derivadas.py)
