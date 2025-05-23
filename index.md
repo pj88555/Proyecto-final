@@ -1,6 +1,6 @@
 # Proyecto final de la materia de de programacion numerica
 
-_El proyecto como su nombre lo indica es una recopilacion de todos los codigos de las tareas hechos a lo largo del semestre_
+*l proyecto como su nombre lo indica es una recopilacion de todos los codigos de las tareas hechos a lo largo del semestre.*
 
 *  **Tarea 1 Repaso de programcion**
   1.[Ejercicio 1](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio1.py)
