@@ -7,7 +7,6 @@
   4.[Ejercicio 4](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio4.py)
   5.[Ejercicio 5](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio5.py)
   6.[Ejercicio 6](https://github.com/pj88555/Proyecto-final/blob/main/ejercicio6.py)
-   [imagen](https://github.com/pj88555/Proyecto-final/blob/main/cholesky.jpg)
 
 *  **Tarea 2 Raices de ecuaciones parte 1**
    1.[Secante](https://github.com/pj88555/Proyecto-final/blob/main/secante.py)
