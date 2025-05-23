@@ -21,6 +21,8 @@
    1.[Jacobi y Gauss-Seidel](https://github.com/pj88555/Proyecto-final/blob/main/Jacoby%20y%20Gauss-Seidel.py)
    2.[Comprobacion usando np.linagl.solve, np.linagl.inv, cholesky, cramer y descomposion LU](https://github.com/pj88555/Proyecto-final/blob/main/tarea%203.py)
 
+   https://www.bing.com/images/search?view=detailV2&ccid=YZVG3jj3&id=275828C27896B8786A7783495E11215202313E09&thid=OIP.YZVG3jj3d7Hif-2bLxwTogHaFj&mediaurl=https%3a%2f%2fimage2.slideserve.com%2f5120908%2fcholesky-s-method2-l.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.619546de38f777b1e27fed9b2f1c13a2%3frik%3dCT4xAlIhEV5Jgw%26pid%3dImgRaw%26r%3d0&exph=768&expw=1024&q=cholesky+formula&simid=607989270817016111&FORM=IRPRST&ck=55309C9CA85ECA6CAF2FC292F61E5C82&selectedIndex=0&itb=0
+
 *  **Tarea 5 Integracion y diferenciacion numericas**
    1.[Derivadas](https://github.com/pj88555/Proyecto-final/blob/main/derivadas.py)
    2.[Integracion](https://github.com/pj88555/Proyecto-final/blob/main/intergracion.py)
