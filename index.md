@@ -22,6 +22,7 @@
    2.[Comprobacion usando np.linagl.solve, np.linagl.inv, cholesky, cramer y descomposion LU](https://github.com/pj88555/Proyecto-final/blob/main/tarea%203.py)
 
    ![Jacobi](https://www.researchgate.net/publication/259978387/figure/fig25/AS:392580920561694@1470609993908/Figuras-41-C-G-J-Jacobi-1804-1851.png)
+   ![](https://github.com/pj88555/Proyecto-final/blob/main/cholesky.jpg)
 
 *  **Tarea 5 Integracion y diferenciacion numericas**
    1.[Derivadas](https://github.com/pj88555/Proyecto-final/blob/main/derivadas.py)
