@@ -21,6 +21,8 @@
    1.[Jacobi y Gauss-Seidel](https://github.com/pj88555/Proyecto-final/blob/main/Jacoby%20y%20Gauss-Seidel.py)
    2.[Comprobacion usando np.linagl.solve, np.linagl.inv, cholesky, cramer y descomposion LU](https://github.com/pj88555/Proyecto-final/blob/main/tarea%203.py)
 
+   ¡[Jacobi](https://www.researchgate.net/publication/259978387/figure/fig25/AS:392580920561694@1470609993908/Figuras-41-C-G-J-Jacobi-1804-1851.png)
+
 *  **Tarea 5 Integracion y diferenciacion numericas**
    1.[Derivadas](https://github.com/pj88555/Proyecto-final/blob/main/derivadas.py)
    2.[Integracion](https://github.com/pj88555/Proyecto-final/blob/main/intergracion.py)
